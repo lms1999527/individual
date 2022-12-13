@@ -1,8 +1,0 @@
-typing~=3.7.4.3
-pip~=22.2.2
-toml~=0.10.2
-tornado~=6.2
-setuptools~=63.2.0
-streamlit~=1.13.0
-plotly~=5.10.0
-pandas~=1.5.0
